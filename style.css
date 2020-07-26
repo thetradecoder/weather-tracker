@@ -38,7 +38,7 @@ aside{
   width:60%;
 }
 @media screen and (max-width:768px){
-  aside, #weather-port, dt{
+  aside, #weather-port, .dt{
     width:100%;
   }
 }
